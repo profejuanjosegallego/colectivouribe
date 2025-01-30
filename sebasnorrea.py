@@ -1,1 +1,5 @@
 print("oe")
+print("Hola soy checho")
+print ("Cual checho?")
+print("El que te puso el chimbo en el pecho....")
+print("JJAJAJAJAJAJAJAJAJAJA")
